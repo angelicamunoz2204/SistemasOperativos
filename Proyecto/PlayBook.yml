@@ -1,4 +1,4 @@
-- hosts: servidores
+- hosts: Servidores
   become: true
   become_method: sudo
   tasks:
